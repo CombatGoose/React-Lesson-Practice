@@ -1,0 +1,16 @@
+.btn {
+    width: 50%;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    align-self: center;
+    margin-top: 30px;
+    &_light {
+        background: #dcdcdc;
+        color: black;
+    }
+    &_dark {
+        background: #272727;
+        color: white;
+    }
+}
